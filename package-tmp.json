@@ -1,0 +1,41 @@
+{
+  "private": true,
+  "name": "terminal",
+  "description": "",
+  "version": "0.0.2",
+  "author": "Konstantin Ivanov [x@ES] <KEIvanov@gmail.com>",
+  "license": "MIT",
+
+  "keywords": [
+  ],
+
+  "dependencies": {
+    "requirejs": "2.1.11",
+    "lodash": "2.4.1",
+    "protobuf-tools": "https://github.com/x2es/protobuf-tools/archive/v0.0.2.tar.gz"
+  },
+  "devDependencies": {
+    "karma": "0.10.10",
+    "karma-mocha": "0.1.3",
+    "karma-requirejs": "0.2.2",
+    "chai": "1.9.0",
+    "sinon": "1.8.2",
+    "karma-html-reporter": "0.1.3"
+  },
+
+  "optionalDependencies": {
+    "connect": "3.4.0",
+    "serve-static": "1.10.0",
+    "karma-mp3-reporter": "1.0.0"
+  },
+
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  }
+
+}
